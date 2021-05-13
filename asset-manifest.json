@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_Build/static/css/main.ec889f19.chunk.css",
+    "main.js": "/React_Build/static/js/main.6b3f329f.chunk.js",
+    "main.js.map": "/React_Build/static/js/main.6b3f329f.chunk.js.map",
+    "runtime-main.js": "/React_Build/static/js/runtime-main.97b6f5e9.js",
+    "runtime-main.js.map": "/React_Build/static/js/runtime-main.97b6f5e9.js.map",
+    "static/js/2.af08f978.chunk.js": "/React_Build/static/js/2.af08f978.chunk.js",
+    "static/js/2.af08f978.chunk.js.map": "/React_Build/static/js/2.af08f978.chunk.js.map",
+    "index.html": "/React_Build/index.html",
+    "static/css/main.ec889f19.chunk.css.map": "/React_Build/static/css/main.ec889f19.chunk.css.map",
+    "static/js/2.af08f978.chunk.js.LICENSE.txt": "/React_Build/static/js/2.af08f978.chunk.js.LICENSE.txt",
+    "static/media/Sec.css": "/React_Build/static/media/Pi12.763a1c10.jpg",
+    "static/media/Third.css": "/React_Build/static/media/Pi3.693838b9.jpg",
+    "static/media/Body.css": "/React_Build/static/media/boat.f5c1b31a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b6f5e9.js",
+    "static/js/2.af08f978.chunk.js",
+    "static/css/main.ec889f19.chunk.css",
+    "static/js/main.6b3f329f.chunk.js"
+  ]
+}
